@@ -1,7 +1,6 @@
 # D3wat.Barcode
-Party invitation and guest management site using JavaScript, HTML, CSS, Python Flask, MySQL, Google Cloud, Azure APIs, and WhatsApp API. Users can create accounts, party tickets, manage guests, send WhatsApp invites, and track responses. Future mobile app for event tracking and barcode scanning.
+Project Title: Ongoing Development - Party Invitation and Guest Management Platform
 
-**Project Description: Party Invitation and Guest Management Website**
 
 This website streamlines the process of organizing and managing party invitations and guest lists. Built using JavaScript (with multiple libraries), HTML, CSS, and Python Flask, it also integrates MySQL for database management, Google Cloud and Azure APIs for additional functionalities, and the WhatsApp API for real-time communication and call-to-action features.
 
